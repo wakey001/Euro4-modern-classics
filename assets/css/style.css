@@ -1,9 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Mate+SC&family=Montserrat&display=swap');
 
-*{margin: 0;
-  padding: 0;
-  border: none; }
-body {
-    font-family:Montserrat, sans-serif;
-    font-weight: 400;
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    color: black;
+}
+
+/*headings and log*/
+h1,
+h2 {
+    font-family: Mate+sc, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #4a4a4f
+}
+
+#logo {
+    float: left;
+    font: size 280%;
+
+}
+
+/*nav links*/
+#menu{
+    float: right;
+}
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
