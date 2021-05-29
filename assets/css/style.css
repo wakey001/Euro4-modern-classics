@@ -18,7 +18,7 @@ h2 {
     font-family: Mate+sc, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #fff
+    color:black;
 }
 
 
@@ -90,12 +90,6 @@ h2 {
     background: url('../images/honda_civic_ep3_ctr_front_three_quarter_\ Grey\ Wireframe.jpg') no-repeat center center;
     background-color:rgb(230, 15, 15);
 }
-
-
-    
-
-    
-
 .engine{
     text-align: center;
 }
