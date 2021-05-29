@@ -28,20 +28,39 @@ h2 {
 }
 
 /*nav links*/
-#menu{
+#menu {
     float: right;
     font-size: 110%;
     letter-spacing: 4px;
 }
-menu
+
+#menu,
+#logo {
+    line-height: 75px;
+}
+
 #menu li {
     float: left;
     list-style-type: none;
     margin-right: 30px;
 }
+
 #menu a {
     text-decoration: none;
-    color:inherit;
-
-
+    color: inherit;
 }
+
+#menu a:hover {
+    border: 5px solid #a62c2b;
+}
+
+.active {
+    border: 5px solid #a62c2b;
+}
+
+/*hero image*/
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpg') no-repeat center center;
+} ce
