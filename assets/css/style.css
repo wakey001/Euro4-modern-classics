@@ -89,3 +89,8 @@ h2 {
     background:url('../images/honda_civic_ep3_ctr_front_three_quarter_\ Grey\ Wireframe.jpg') no-repeat center center;
     background-color:black;
 }
+
+p{
+    font-family: Mate+sc, sans-serif;
+    color:red;
+}
