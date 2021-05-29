@@ -9,7 +9,7 @@
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 400;
-    color: black;
+    color:#fff;
 }
 
 /*headings and log*/
@@ -18,7 +18,7 @@ h2 {
     font-family: Mate+sc, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #4a4a4f
+    color: #fff
 }
 
 #logo {
@@ -63,4 +63,8 @@ h2 {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
-} ce
+    border-radius: 50%;
+} 
+#hero-outer{
+    background-color:rgba(36, 37, 42, 1);
+}
