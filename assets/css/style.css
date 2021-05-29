@@ -9,7 +9,7 @@
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 400;
-    color:#fff;
+    color: #fff;
 }
 
 /*headings and log*/
@@ -22,22 +22,22 @@ h2 {
 }
 
 #logo {
-    float: left;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font: size 280%;
 
 }
 
 /*nav links*/
 #menu {
-    float: right;
+    position: relative;
     font-size: 110%;
     letter-spacing: 4px;
+
 }
 
-#menu,
-#logo {
-    line-height: 75px;
-}
 
 #menu li {
     float: left;
@@ -63,8 +63,9 @@ h2 {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
-    border-radius: 50%;
-} 
-#hero-outer{
-    background-color:rgba(36, 37, 42, 1);
+    border-radius: 8px;
+}
+
+#hero-outer {
+    background-color: rgba(36, 37, 42, 1);
 }
