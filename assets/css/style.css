@@ -54,11 +54,11 @@ h2 {
 }
 
 #menu a:hover {
-    border: 5px solid #a62c2b;
+    border: 5px solid #000;
 }
 
 .active {
-    border: 5px solid #a62c2b;
+    border: 5px solid #000;
 }
 
 /*hero image*/
@@ -66,31 +66,40 @@ h2 {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
-    border-radius: 8px;
-    background-color: black;
+    border: 2px solid black;
+    background-color: rgb(230, 15, 15);
 }
 
-/*An itroduction to the civic type r 2001-2006*/
+/*An introduction to the civic type r 2001-2006*/
 #engine {
     height: 600px;
     width: 100%;
     background: url('../images/civic-type-r-ep3-engine-bay.for\ wireframe.jpg') no-repeat center center;
-    background-color: black;
+    background-color: #fff;
+    
 }
-#interior{
+#interior {
     height:600px;
     width: 100%;
-    background:url('../images/ep3\ interior.\ for\ wireframe.jpg') no-repeat center center;
-    background-color:black;
+    background: url('../images/ep3\ interior.\ for\ wireframe.jpg') no-repeat center center;
+    background-color:#fff;
 }
 #exterior{
     height: 600px;
     width:100%;
-    background:url('../images/honda_civic_ep3_ctr_front_three_quarter_\ Grey\ Wireframe.jpg') no-repeat center center;
-    background-color:black;
+    background: url('../images/honda_civic_ep3_ctr_front_three_quarter_\ Grey\ Wireframe.jpg') no-repeat center center;
+    background-color:rgb(230, 15, 15);
 }
 
-p{
-    font-family: Mate+sc, sans-serif;
-    color:red;
+
+    
+
+    
+
+.engine{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    text-transform: uppercase;
 }
