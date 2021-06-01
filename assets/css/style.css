@@ -79,14 +79,14 @@ h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
-    
+
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: silver;
+
 }
 
 #center-about {
@@ -102,28 +102,40 @@ h2 {
 }
 
 #circle-container {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     padding: 20px;
-    border: 2px solid #ccc;
+    border: 2px solid #f00;
     border-radius: 50%;
     margin: 0 auto;
 }
 
 #circle-cover-bg {
-    background: url('../images/civic-type-r-ep3-engine-bay.for\ wireframe.jpg') no-repeat center center;
+    background: url('../images/K20A_honda.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
-hr{
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px;
 
 }
 
 .left-about-heading {
-    width:60%;
-    float:right;
+    width: 60%;
+    float: right;
     line-height: 20px;
-    clear:both;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
     margin-bottom: 50px;
 }
 
