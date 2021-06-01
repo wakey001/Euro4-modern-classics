@@ -1,3 +1,4 @@
+/*index.html*/
 @import url('https://fonts.googleapis.com/css2?family=Mate+SC&family=Montserrat&display=swap');
 
 * {
@@ -50,15 +51,15 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    
 }
 
 #menu a:hover {
-    border: 5px solid #fff;
+    border: 5px solid #000;
 }
 
 .active {
-    border: 5px solid #fff;
+    border: 5px solid #000;
 }
 
 /*hero image*/
@@ -138,6 +139,8 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
+/*Expect to pay */
+#expect-to-pay{}
 
 /*vote.html for your next model to be covered inputand image*/
 /*car model img size ie; golf focus clio */
