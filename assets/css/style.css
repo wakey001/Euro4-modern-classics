@@ -6,17 +6,56 @@
     padding: 0;
     border: none;
 }
-.intro-about{
+#intro-hr-left{
+    width:60%;
+}
+
+#intro-hr-center{
+    margin-left: 14%;
+    width:70%;
+}
+#intro-hr-right{
+    margin-left: 25%;
+    width: 75%;
+}
+.intro-about-container {
     width: 33%;
 }
-#intro-about p{
-    
+
+.intro-about p {
+
     text-align: center;
 }
+
+#intro-box-left {
+    float: left;
+    
+}
+
+#intro-box-center {
+    margin: auto;
+    display: inline-block;
+    
+
+}
+
+#intro-box-right {
+    float: right;
+}
+
+
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 400;
     color: rgba(36, 37, 42, 1);
+}
+
+#press-h2 {
+    text-align: center;
+}
+
+#public-h2 {
+    text-align: right;
 }
 
 /*headings and logo*/
