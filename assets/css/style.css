@@ -140,7 +140,16 @@ hr {
     margin-bottom: 50px;
 }
 /*Expect to pay */
-#expect-to-pay{}
+#expect-to-pay h2 {
+    font-size: 50px;
+    text-align: center;
+}
+#expect-to-pay{
+    font-size: 22px;
+}
+table{
+    width: 100%;
+}
 
 /*vote.html for your next model to be covered inputand image*/
 /*car model img size ie; golf focus clio */
