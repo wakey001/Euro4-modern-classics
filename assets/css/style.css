@@ -6,7 +6,13 @@
     padding: 0;
     border: none;
 }
-
+.intro-about{
+    width: 33%;
+}
+#intro-about p{
+    
+    text-align: center;
+}
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 400;
@@ -172,12 +178,6 @@ hr {
 #center-about-two {
     width: 33%;
     margin: 0 auto;
-}
-
-#welcome-two {
-    text-align: center;
-    margin: 20px 0;
-    font-size: 50px;
 }
 
 #circle-container-two {
