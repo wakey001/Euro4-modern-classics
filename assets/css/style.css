@@ -120,234 +120,248 @@ h2 {
 
 
 
-    /*club-ethos*/
-    #why-classic-one {
-        height: 600px;
-    }
+/*club-ethos*/
+#why-classic-one {
+    height: 600px;
+}
 
 
 
-    #left-about-one {
-        padding-top: 30px;
-        width: 33%;
-        float: left;
-    }
+#left-about-one {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
 
 
 
-    #right-about-one {
-        padding-top: 30px;
-        width: 33%;
-        float: right;
-    }
+#right-about-one {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
 
 
 
-    #center-about-one {
-        width: 33%;
-        margin: 0 auto;
-    }
+#center-about-one {
+    width: 33%;
+    margin: 0 auto;
+}
 
 
 
-    #welcome-one {
-        text-align: center;
-        margin: 20px 0;
-        font-size: 50px;
-    }
+#welcome-one {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 30px;
+}
 
 
 
-    #circle-container-one {
-        width: 300px;
-        height: 300px;
-        padding: 20px;
-        border: 2px solid #f00;
-        border-radius: 50%;
-        margin: 0 auto;
-    }
+#circle-container-one {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: 2px solid #f00;
+    border-radius: 50%;
+    margin: 0 auto;
+}
 
 
 
-    #circle-cover-bg-one {
-        background: url('../images/K20A_honda.jpg') no-repeat center center;
-        height: 100%;
-        border-radius: 50%;
-    }
+#circle-cover-bg-one {
+    background: url('../images/K20A_honda.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
 
 
 
-    hr {
-        border-top: 1px solid #3a3a3a;
-        width: 100%;
-        margin: 5px;
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px;
 
-    }
+}
 
-    .left-about-heading {
-        width: 60%;
-        float: right;
-        line-height: 20px;
-        clear: both;
-        margin-bottom: 50px;
-    }
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
 
-    .right-about-heading {
-        width: 60%;
-        float: left;
-        line-height: 20px;
-        clear: both;
-        margin-bottom: 50px;
-    }
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
 
-    /*club ethos2*/
+/*club ethos2*/
 
-    #why-classic-two {
-        height: 600px;
-    }
+#why-classic-two {
+    height: 600px;
+}
 
-    #left-about-two {
-        padding-top: 30px;
-        width: 33%;
-        float: left;
-    }
+#left-about-two {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
 
-    #right-about-two {
-        padding-top: 30px;
-        width: 33%;
-        float: right;
-    }
+#right-about-two {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
 
-    #center-about-two {
-        width: 33%;
-        margin: 0 auto;
-    }
+#center-about-two {
+    width: 33%;
+    margin: 0 auto;
+}
 
-    #circle-container-two {
-        width: 300px;
-        height: 300px;
-        padding: 20px;
-        border: 2px solid #f00;
-        border-radius: 50%;
-        margin: 0 auto;
-    }
+#circle-container-two {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: 2px solid #f00;
+    border-radius: 50%;
+    margin: 0 auto;
+}
 
-    #circle-cover-bg-two {
-        background: url('../images/Ep3-gearlever.jpg') no-repeat center center;
-        height: 100%;
-        border-radius: 50%;
+#circle-cover-bg-two {
+    background: url('../images/Ep3-gearlever.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 
-    }
+}
 
-    /*Expect to pay */
-    #expect-to-pay h2 {
-        font-size: 50px;
-        text-align: center;
-    }
+/*Expect to pay */
+#expect-to-pay h2 {
+    font-size: 20px;
+    text-align: center;
+}
 
-    #expect-to-pay {
-        font-size: 22px;
-    }
+#expect-to-pay {
+    font-size: 22px;
+}
 
-    table {
-        width: 100%;
-    }
+/* Table */
 
-    /*vote.html for your next model to be covered inputand image*/
-    /*car model img size ie; golf focus clio */
-    /*h1*/
-    h1 {
-        text-align: center;
-    }
+table {
+    width: 100%;
+}
 
-    /*div container*/
-    .big-box {
-        border: 1px solid #000;
-        width: 450px;
-        height: 300px;
-    }
+table,
+th,
+td {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 
-    /*size div for golf*/
-    .car-model {
-        height: 300px;
-        width: 300px;
-        position: relative;
-    }
+/*Footer */
+footer {
+    height: 150px;
+}
 
-    /*img golf etc..*/
-    .car-model img {
-        height: 300px;
-        width: 300px;
-    }
+.social-icons {
+    text-align: center;
+}
 
-    /*div for power text*/
-    .box-two {
-        position: relative;
-        top: -300px;
-        left: -300px;
+.social-icons>li {
+    display: inline;
+}
 
-    }
-
-    /*paragraph power text in div box two */
-    .box-two p {
-        position: relative;
+.social-icons i {
+    font-size: 250%;
+    margin: 1%;
+    padding: 5%;
+}
 
 
-    }
 
-    /*div for flag*/
-    .box-three {
-        position: relative;
-        top: -600px;
-        left: -300px;
-        height: 150px;
-        width: 150px;
-    }
+/* Versions.html*/
 
-    /*flag type id*/
-    #german-flag {
+/*div container*/
 
-        height: 150px;
-        width: 150px;
+h1 {
+    text-align: center;
+}
+.big-box {
+    border: 1px solid #000;
+    width: 450px;
+    height: 300px;
+}
+
+/*size div for golf*/
+.car-model {
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+/*img golf etc..*/
+.car-model img {
+    height: 300px;
+    width: 300px;
+}
+
+/*div for power text*/
+.box-two {
+    position: relative;
+    top: -300px;
+    left: -300px;
+
+}
+
+/*paragraph power text in div box two */
+.box-two p {
+    position: relative;
 
 
-    }
+}
 
-    #american {
-        background: url('./images/usflag.png') no-repeat;
-        background-size: contain;
-    }
+/*div for flag*/
+.box-three {
+    position: relative;
+    top: -600px;
+    left: -300px;
+    height: 150px;
+    width: 150px;
+}
+
+/*flag type id*/
+#german-flag {
+
+    height: 150px;
+    width: 150px;
 
 
-    /*checkbox size*/
-    input.size {
+}
 
-        transform: scale(2);
-    }
+#american {
+    background: url('./images/usflag.png') no-repeat;
+    background-size: contain;
+}
 
 
-    /*power text 200hp etc..*/
-    .power-spec {
-        text-align: right;
-    }
+/*checkbox size*/
+input.size {
 
-    /*checkbox label*/
-    .label-for-checkbox {
-        text-align: center;
-    }
+    transform: scale(2);
+}
 
-    /*Footer */
-    footer{
-        height: 150px;
-    }
-    .social-icons{
-        text-align: center;
-    }
-    .social-icons >li {
-        display: inline;
-    }
-    .social-icons i {
-        font-size: 250%;
-        margin: 1%;
-        padding: 5%;
-    }
+
+/* power text 200hp etc..*/
+.power-spec {
+    text-align: right;
+}
+
+/*checkbox label*/
+.label-for-checkbox {
+    text-align: center;
+}
