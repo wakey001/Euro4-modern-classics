@@ -335,3 +335,19 @@ h2 {
     .label-for-checkbox {
         text-align: center;
     }
+
+    /*Footer */
+    footer{
+        height: 150px;
+    }
+    .social-icons{
+        text-align: center;
+    }
+    .social-icons >li {
+        display: inline;
+    }
+    .social-icons i {
+        font-size: 250%;
+        margin: 1%;
+        padding: 5%;
+    }
