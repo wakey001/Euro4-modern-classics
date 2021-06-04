@@ -6,7 +6,54 @@
     padding: 0;
     border: none;
 }
+/* Body for index.html*/
 
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    color: rgba(36, 37, 42, 1);
+}
+/* class for index  nav*/
+.active {
+    border: 5px solid #000;
+}
+
+/* id for h1 (future modern classics)*/
+#logo {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font: size 280%;
+
+}
+
+/* Menu */
+
+#menu {
+    position: fixed;
+    font-size: 110%;
+    letter-spacing: 4px;
+    padding-top: 25px;
+    margin-left: 15px;
+    color: #000;
+}
+
+#menu li {
+
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border: 5px solid #000;
+}
+
+/* horizontal rule for intro text*/
 #intro-hr-left {
     width: 60%;
 }
@@ -19,7 +66,6 @@
 #intro-hr-right {
     margin-left: 25%;
     width: 75%;
-
 }
 
 .intro-about-container {
@@ -27,10 +73,8 @@
     border: 1px solid black;
 }
 
-
 .intro-about-container p {
     color:white;
-
     text-align: center;
 }
 
@@ -42,19 +86,10 @@
 #intro-box-center {
     margin: auto;
     display: inline-block;
-
-
 }
 
 #intro-box-right {
     float: right;
-}
-
-
-body {
-    font-family: Montserrat, sans-serif;
-    font-weight: 400;
-    color: rgba(36, 37, 42, 1);
 }
 
 #press-h2 {
@@ -66,52 +101,13 @@ body {
 }
 
 /*headings and logo*/
+
 h1,
 h2 {
     font-family: Mate+sc, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
-}
-
-
-#logo {
-    position: absolute;
-    top: 10%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font: size 280%;
-
-}
-
-/*nav links*/
-#menu {
-    position: fixed;
-    font-size: 110%;
-    letter-spacing: 4px;
-    padding-top: 25px;
-    margin-left: 15px;
-    color: #000;
-}
-
-
-#menu li {
-
-    list-style-type: none;
-    padding-top: 20px;
-}
-
-#menu a {
-    text-decoration: none;
-
-}
-
-#menu a:hover {
-    border: 5px solid #000;
-}
-
-.active {
-    border: 5px solid #000;
 }
 
 /*hero image*/
@@ -129,8 +125,6 @@ h2 {
     background-position: center;
     width: 100%;
     height: 600px;
-    
-    
 }
 
 /*club-ethos*/
@@ -138,38 +132,27 @@ h2 {
     height: 600px;
 }
 
-
-
 #left-about-one {
     padding-top: 30px;
     width: 33%;
     float: left;
 }
-
-
-
 #right-about-one {
     padding-top: 30px;
     width: 33%;
     float: right;
 }
 
-
-
 #center-about-one {
     width: 33%;
     margin: 0 auto;
 }
-
-
 
 #welcome-one {
     text-align: center;
     margin: 10px 0;
     font-size: 30px;
 }
-
-
 
 #circle-container-one {
     width: 300px;
@@ -180,15 +163,11 @@ h2 {
     margin: 0 auto;
 }
 
-
-
 #circle-cover-bg-one {
     background: url('../images/K20A_honda.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
-
-
 
 hr {
     border-top: 1px solid #3a3a3a;
@@ -295,8 +274,6 @@ footer {
     padding: 5%;
 }
 
-
-
 /* Versions.html*/
 
 /*div container*/
@@ -350,11 +327,8 @@ h1 {
 
 /*flag type id*/
 #german-flag {
-
     height: 150px;
     width: 150px;
-
-
 }
 
 #american {
@@ -362,13 +336,12 @@ h1 {
     background-size: contain;
 }
 
-
 /*checkbox size*/
+
 input.size {
 
     transform: scale(2);
 }
-
 
 /* power text 200hp etc..*/
 .power-spec {
