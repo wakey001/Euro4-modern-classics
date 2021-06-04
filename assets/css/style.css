@@ -15,7 +15,7 @@ body {
 }
 /* class for index  nav*/
 .active {
-    border: 5px solid #000;
+    border: 5px solid #fff;
 }
 
 /* id for h1 (future modern classics)*/
@@ -36,7 +36,9 @@ body {
     letter-spacing: 4px;
     padding-top: 25px;
     margin-left: 15px;
+    margin-top: 20px;
     color: #000;
+    background-color: red;
 }
 
 #menu li {
@@ -50,7 +52,7 @@ body {
 }
 
 #menu a:hover {
-    border: 5px solid #000;
+    border: 5px solid #fff;
 }
 /*hero image*/
 
@@ -273,6 +275,30 @@ footer {
 }
 
 /* Versions.html*/
+.wrapper{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto ;
+    margin-right: auto;
+    border: 1px solid black;
+}
+.banner{
+    width:750px ;
+    height:90px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+.nav{
+    background-color: #5c5c5c;
+    width:750px ;
+    height: 30px;
+    margin-left:auto ;
+    position: relative;
+    margin-right:auto ;
+    border: 1px solid black ;
+}
 
 /*div container*/
 
