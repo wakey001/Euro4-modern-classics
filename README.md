@@ -90,10 +90,10 @@ THANK YOU FOR LOOKING . ANY FEEDBACK DONT HESITATE TO CONTACT ME .
 * [FONT AWESOME](https://fontawesome.com/)
 * [GOOGLE FONTS](https://fonts.google.com/)
 #### TOOLS
-* GIT HUB
-* GIT POD
-* W3C HTML VALIDATION SERVICE
-* W3C CSS VALIDATION SERVICE
+* [GIT HUB](https://github.com/)
+* [GIT POD](https://www.gitpod.io/docs/configure/)
+* [W3C HTML VALIDATION SERVICE](https://validator.w3.org/)
+* [W3C CSS VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/)
 ### TESTING 
 ***
 ### DEPLOYMENT
