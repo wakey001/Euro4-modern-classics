@@ -190,7 +190,34 @@ footer {
     padding: 5%;
 }
 
-/*div container*/
+/* Versions jdm 30th anniversary
+ premiere edition  */
+
+ .flex-container{
+     display:flex;
+     justify-content: start;
+ }
+
+ .versions-container{
+      height:500px;
+      width:100%;
+      background-color: slategray;
+    }
+
+#version-left-header{
+margin-left: 80px;
+
+}
+#version-right-header{
+    margin-left: 70px;
+
+}
+    
+
+      
+    
+    
+    
 
 
 
