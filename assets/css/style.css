@@ -30,7 +30,7 @@ body {
 
 /* Menu */
 
-#menu {
+#navbar {
     position: fixed;
     font-size: 110%;
     letter-spacing: 4px;
@@ -39,12 +39,6 @@ body {
     margin-top: 20px;
     color: #000;
     background-color: red;
-}
-
-#navbar {
-
-    list-style-type: none;
-    padding-top: 20px;
 }
 
 #navbar a {
