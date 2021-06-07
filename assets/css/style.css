@@ -30,22 +30,20 @@ body {
 
 /* Menu */
 
-#navbar {
+.navbar {
     position: fixed;
-    font-size: 110%;
+    overflow: hidden;
     letter-spacing: 4px;
-    padding-top: 25px;
-    margin-left: 15px;
-    margin-top: 20px;
-    color: #000;
-    background-color: red;
+    background-color: black;
+    top: 0;
+    width: 100%;
 }
 
-#navbar a {
+.navbar a {
     text-decoration: none;
 }
 
-#navbar a:hover {
+.navbar a:hover {
     border: 5px solid #fff;
 }
 /*hero image*/
