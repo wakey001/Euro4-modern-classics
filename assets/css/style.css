@@ -56,9 +56,10 @@ body {
 /*hero image*/
 
 #hero-image {
-    height: 700px;
+    height: 800px;
     width: 100%;
     background: url('../images/civic-wallpaper.jpg') no-repeat center center;
+    background-color:silver ;
 }
 /* horizontal rule for intro text*/
 
@@ -81,17 +82,20 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width: 100%;
+    width: 80%;
     height: 600px;
+    float: right;
 }
 .intro-about-container {
-    width: 33%;
-    border: 1px solid black;
+    width: 20%;
+    background: skyblue;
+    
 }
 
 .intro-about-container p {
-    color:white;
-    text-align: center;
+    color: red;
+    text-align: left;
+    
 }
 
 #intro-box-left {
