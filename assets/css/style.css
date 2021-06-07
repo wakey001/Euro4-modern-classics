@@ -41,25 +41,25 @@ body {
     background-color: red;
 }
 
-#menu li {
+#navbar {
 
     list-style-type: none;
     padding-top: 20px;
 }
 
-#menu a {
+#navbar a {
     text-decoration: none;
 }
 
-#menu a:hover {
+#navbar a:hover {
     border: 5px solid #fff;
 }
 /*hero image*/
 
 #hero-image {
-    height: 600px;
+    height: 700px;
     width: 100%;
-    background: url('../images/hero-image.jpg') no-repeat center center;
+    background: url('../images/civic-wallpaper.jpg') no-repeat center center;
 }
 /* horizontal rule for intro text*/
 
@@ -78,7 +78,7 @@ body {
 }
 /* intro-image styling*/
 #intro-img {
-    background-image: url('../images/civic-wallpaper.jpg');
+    background-image: url('../images/hero-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -194,42 +194,6 @@ hr {
 
 /*club ethos2*/
 
-#why-classic-two {
-    height: 600px;
-}
-
-#left-about-two {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-}
-
-#right-about-two {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-#center-about-two {
-    width: 33%;
-    margin: 0 auto;
-}
-
-#circle-container-two {
-    width: 300px;
-    height: 300px;
-    padding: 20px;
-    border: 2px solid #f00;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-#circle-cover-bg-two {
-    background: url('../images/Ep3-gearlever.jpg') no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
-
-}
 
 /*Expect to pay */
 #expect-to-pay h2 {
