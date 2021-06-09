@@ -198,8 +198,7 @@ footer {
     padding: 5%;
 }
 
-/* Versions jdm 30th anniversary
- premiere edition  */
+/* gallery */
 
 .flex-container {
     display: flex;
@@ -207,21 +206,31 @@ footer {
 }
 
 .versions-container {
-    height: 100%;
+    height: 300px;
+    width: 33%;
+}
+
+
+
+
+#jdm{
+    background:url('../images/ep3\ standard\ seats.jpg') no-repeat center center ;
+    height: 300px;
     width: 100%;
-}
+    background-size: cover;
 
-#version-left-header {
-    margin-left: 80px;
-
-}
-
-#version-right-header {
-    margin-left: 70px;
 }
 
 #anni {
     background: url('../images/30th-anni-seats.jpeg') no-repeat center center;
     height: 300px;
-    width: 300px;
+    width: 100%;
+    background-size: cover;
+
 }
+#prem{
+    background: url('../images/ep3\ premseats.jpg')  no-repeat center center;
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+} 
