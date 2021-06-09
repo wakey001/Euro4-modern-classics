@@ -32,28 +32,37 @@ body {
 
 /* Menu */
 
-.navbar {
+nav {
     position: fixed;
     overflow: hidden;
     letter-spacing: 4px;
     background-color: black;
     top: 0;
     width: 100%;
+    text-align: center;
+    padding: 5px 0 ;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin:0 2px ;
+    padding: 0;
 }
 
-.navbar a {
+nav a {
+   
     text-decoration: none;
-    font-size: 18px;
-    display: block;
+    font-size: 17px;
+    display: inline-block;
     text-align: center;
-    padding: 14px 16px;
-    float: left;
+    padding: 5px 5px;
     color: white;
 }
 
-.navbar a:hover {
-    background: white;
-    color: red;
+nav a:hover {
+    background: blueviolet;
+    color :chartreuse;
 }
 
 /*hero image*/
@@ -90,7 +99,7 @@ body {
 }
 
 .intro-about-container p {
-    color: red;
+    color: white;
     text-align: left;
 
 }
