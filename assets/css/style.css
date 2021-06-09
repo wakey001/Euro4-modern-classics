@@ -141,16 +141,16 @@ h2 {
 }
 
 #circle-container-one {
-    width: 300px;
-    height: 300px;
+    width: 425px;
+    height: 390px;
     padding: 20px;
-    border: 2px solid #f00;
+    border: 1px solid #000;
     border-radius: 50%;
     margin: 0 auto;
 }
 
 #circle-cover-bg-one {
-    background: url('../images/K20A_honda.jpg') no-repeat center center;
+    background: url('../images/honda-k20a2-engine-gearbox-swap-package.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -200,37 +200,12 @@ footer {
 
 /* gallery */
 
-.flex-container {
-    display: flex;
-    justify-content: start;
+#photos{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
 }
-
-.versions-container {
-    height: 300px;
-    width: 33%;
-}
-
-
-
-
-#jdm{
-    background:url('../images/ep3\ standard\ seats.jpg') no-repeat center center ;
-    height: 300px;
+#photos > img{
     width: 100%;
-    background-size: cover;
-
 }
-
-#anni {
-    background: url('../images/30th-anni-seats.jpeg') no-repeat center center;
-    height: 300px;
-    width: 100%;
-    background-size: cover;
-
-}
-#prem{
-    background: url('../images/ep3\ premseats.jpg')  no-repeat center center;
-    height: 300px;
-    width: 100%;
-    background-size: cover;
-} 
