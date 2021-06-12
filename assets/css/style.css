@@ -26,7 +26,7 @@ body {
     top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font: size 280%;
+    font-size: 280%;
 }
 
 
@@ -40,18 +40,19 @@ nav {
     top: 0;
     width: 100%;
     text-align: center;
-    padding: 5px 0 ;
+    padding: 5px 0;
 }
-nav ul{
+
+nav ul {
     list-style: none;
     display: flex;
     justify-content: space-around;
-    margin:0 2px ;
+    margin: 0 2px;
     padding: 0;
 }
 
 nav a {
-   
+
     text-decoration: none;
     font-size: 17px;
     display: inline-block;
@@ -62,7 +63,7 @@ nav a {
 
 nav a:hover {
     background: blueviolet;
-    color :chartreuse;
+    color: chartreuse;
 }
 
 /*hero image*/
@@ -112,7 +113,7 @@ nav a:hover {
 
 h1,
 h2 {
-    font-family: Mate+sc, sans-serif;
+    font-family: Mate SC, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
@@ -120,6 +121,7 @@ h2 {
 }
 
 /*club-ethos*/
+
 #why-classic-one {
     height: 600px;
     background: slategray;
