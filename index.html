@@ -130,36 +130,68 @@
     <section id="photos">
 
         <img src="assets/images/ep3 standard seats.jpg" alt="Image of standard civic type R seats ">
-        <img src="assets/images/honda_civic_ep3_ctr_front_three_quarter_ Grey Wireframe.jpg" alt="">
-        <img src="assets/images/rear-jdm-white-ep3.jpg" alt="">
-        <img src="assets/images/facelift-ep3-seats.jpg" alt="">
-        <img src="assets/images/red-ep3-rear.jpg" alt="">
-        <img src="assets/images/ep3-engine-bay.jpg" alt="">
-        <img src="assets/images/30th-anni-seats.jpeg" alt="">
-        <img src="assets/images/red-ep3-front.jpg" alt="">
-        <img src="assets/images/silver-ep3-front.jpg" alt="">
-        <img src="assets/images/black-ep3-front-2.jpg" alt="">
-        <img src="assets/images/ep3-interior-dash.jpg" alt="">
-        <img src="assets/images/silver-ep3-3.jpg" alt="">
-        <img src="assets/images/ep3 premseats.jpg" alt="">
+        <img src="assets/images/honda_civic_ep3_ctr_front_three_quarter_ Grey Wireframe.jpg" alt="a three quarter view of a grey civc type r">
+        <img src="assets/images/rear-jdm-white-ep3.jpg" alt="The rear view of a white japanese version of the civic type R">
+        <img src="assets/images/facelift-ep3-seats.jpg" alt="facelift seats inside the civc type r">
+        <img src="assets/images/red-ep3-rear.jpg" alt="The rear view of a red honda civic type r">
+        <img src="assets/images/ep3-engine-bay.jpg" alt="clean engine bay view inside a civc type r">
+        <img src="assets/images/30th-anni-seats.jpeg" alt="30th anniversary front seats inside a civc type r">
+        <img src="assets/images/red-ep3-front.jpg" alt="front end view of a red civic type r">
+        <img src="assets/images/silver-ep3-front.jpg" alt="front end view of a silver civic type r">
+        <img src="assets/images/black-ep3-front-2.jpg" alt="front view of a black civic type r">
+        <img src="assets/images/ep3-interior-dash.jpg" alt="dashboard view of the civic type r">
+        <img src="assets/images/silver-ep3-3.jpg" alt="A three quarter view of a silver civic type r">
+        <img src="assets/images/ep3 premseats.jpg" alt="premiere edition seats of the civc type r">
     </section>
 
     <!--Vote-->
-    <section id="vote">
+    <section id="vote" >
        <fieldset>
-           <legend>Fill in to vote for Favourite Honda of all time</legend>
+           <legend></legend>
             <form>
-                <label for="fname">First Name</label>
-                <input type="text" id="fname" >
+                
+                <div>
+                    
+                <label for="fname">First Name :</label>
+                <input type="text" id="fname" class="textinput">
+                <br>
 
-                <label for="lname">Last Name</label>
-                <input type="text" id="lname" >
+                <label for="lname">Last Name :</label>
+                <input type="text" id="lname" class="textinput">
+                <br>
 
-                <label for="email">Email</label>
-                <input type="email" id="email">
+                <label for="email">Email :</label>
+                <input type="email" id="email"class="textinput" >
+                <p>Do you plan on buying a Civic Type R in the near future</p>
 
-                <label for="fhonda">Favourite Honda </label>
-                <input type="radio" id="fhonda">
+                <label for="honda">Yes</label>
+                <input type="radio" id="honda" name="honda">
+                <label for="honda">No</label>
+                <input type="radio" id="honda" name="honda" checked>
+                <br>
+                <p>If yes what is your budget</p>
+
+                <label for="budget"></label>
+                <select name="budget" id="budget">
+                <option value="0-2500">£0-£2500</option>
+                <option value="2500-5000">£2500-£5000</option>
+                <option value="5000-7500">£5000-£7500</option>
+                <option value="7500-10000">£7500-£10000</option>
+                <option value="10000+">£10000+</option>
+                </select>
+                
+
+                <p>Please Enter any thoughts on what you would like to see in future.</p>
+                
+                <textarea rows="5" cols="50" name="description">Enter thought here...</textarea>
+
+                <input type="submit" name="submit" value="Submit" id="submit">
+        
+                
+                
+                </div>
+
+
 
             
 

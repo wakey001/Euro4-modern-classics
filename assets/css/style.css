@@ -205,7 +205,23 @@ hr {
 
 #vote{
     background-color: slategray;
+    border:1px solid black;
 }
+.textinput{
+    font-family: mate SC,sans-serif;
+    font-size: 14px;
+
+}
+#submit{
+    border-radius: 6px;
+    color: saddlebrown;
+}
+#submit a:hover{
+    background-color: red;
+}
+    
+
+
 
 /*Footer */
 
