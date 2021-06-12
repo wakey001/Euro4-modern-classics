@@ -219,6 +219,10 @@ hr {
 #submit a:hover{
     background-color: red;
 }
+#form-box{
+    margin:40px;
+    padding-right: 50px;
+}
     
 
 
