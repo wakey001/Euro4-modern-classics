@@ -7,6 +7,9 @@
     border: none;
 }
 
+html{
+    font-size: 62.5%;
+}
 /* Body for index.html*/
 
 body {
@@ -94,7 +97,7 @@ nav a:hover {
 
 .intro-about-container {
     width: 40%;
-    background: skyblue;
+    background: slategray;
     height: 150px;
 
 }
