@@ -13,7 +13,7 @@ html{
 /* Body for index.html*/
 
 body {
-    font-family: Montserrat, sans-serif;
+    font-family: "MATE SC", "sans-serif";
     font-weight: 400;
     color: rgba(36, 37, 42, 1);
 }
@@ -29,7 +29,7 @@ body {
     top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 200%;
+    font-size: 3rem;
 }
 
 
@@ -57,7 +57,7 @@ nav ul {
 nav a {
 
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.5rem;
     display: inline-block;
     text-align: center;
     padding: 5px 5px;
@@ -95,28 +95,24 @@ nav a:hover {
     float: right;
 }
 
-.intro-about-container {
+.intro-container {
     width: 40%;
     background: slategray;
     height: 150px;
 
 }
 
-.intro-about-container p {
+.intro-container p {
     color: white;
     text-align: left;
 
 }
 
-
-
-
-
 /*headings and */
 
 h1,
 h2 {
-    font-family: Mate SC, sans-serif;
+    font-family: "MATE SC", "sans-serif";
     text-transform: uppercase;
     letter-spacing: 4px;
     color: purple;
@@ -151,7 +147,7 @@ h2 {
 #welcome-one {
     text-align: center;
     margin: 0;
-    font-size: 30px;
+    font-size: 2.5rem;
 }
 
 #circle-container-one {
@@ -211,7 +207,7 @@ hr {
     border:1px solid black;
 }
 .textinput{
-    font-family: mate SC,sans-serif;
+    font-family: "MATE SC","sans-serif";
     font-size: 14px;
 
 }
@@ -226,11 +222,8 @@ hr {
     margin:40px;
     padding-right: 50px;
 }
-    
 
-
-
-/*Footer */
+    /*Footer */
 
 footer {
     height: 150px;
@@ -245,7 +238,7 @@ footer {
 }
 
 .social-icons i {
-    font-size: 250%;
+    font-size: 2.5rem;
     margin: 1%;
     padding: 5%;
 }
