@@ -252,3 +252,15 @@ footer{
     margin: 1%;
     padding: 5%;
 }
+
+/*media queries */
+
+/*Large to medium screens 1200px und under*/
+
+@media screen and (max-width: 1200px){
+    #hero-image{
+        width:100%;
+        background-size: contain;
+        }
+
+}
