@@ -264,7 +264,7 @@ footer{
         background-size: contain;
         }
     #intro-image{
-        width:50%;
+        
         }
     #intro-top{
 
@@ -275,6 +275,21 @@ footer{
     #intro-bottom{
 
     }
+    
+    #photos{
+        column-count: 3;
+    }
+}
 
 
+
+@media screen and (max-width:800px) {
+    #photos{
+        column-count: 2;
+    }
+    u{
+        text-decoration: none;
+    }
+
+    
 }
