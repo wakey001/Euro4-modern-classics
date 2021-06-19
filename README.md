@@ -1,7 +1,7 @@
 # stefan.w-first-milestone-for-1-7-2021
 ***
 ## FUTURE MODERN CLASSICS
-PUT IMAGE HERE
+![different device sizes with a honda civic type R](pic-for-readme.png)
 ***
 
 ## GOAL FOR THIS PROJECT
