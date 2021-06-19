@@ -1,4 +1,4 @@
-# stefan.w-first-milestone-for-1-7-2021
+# wakey001/euro4-modern-classics
 ***
 ## FUTURE MODERN CLASSICS
 ![different device sizes with a honda civic type R](pic-for-readme.PNG)
