@@ -264,9 +264,10 @@ footer{
         margin-top: 35px;
     }
     #hero-image{
+        height: 650px;
         width:100%;
         background-size: contain;
-        }
+    }
     #intro-img{
         width:100%;
         background-size: contain;
@@ -309,6 +310,15 @@ footer{
 
 
 @media screen and (max-width:800px) {
+    #logo{margin-top: 15px;
+
+    }
+    
+        
+    #hero-image{
+        height: 500px;
+    }
+
     #photos{
         column-count: 2;
     }
@@ -318,3 +328,13 @@ footer{
 
     
 }
+@media screen and (max-width:620px){
+    #logo{
+        font-size: 2rem;
+    }
+    
+    
+        
+    }
+    
+
