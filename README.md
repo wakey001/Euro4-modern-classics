@@ -77,9 +77,9 @@ As clean air zones pop up all over the uk i wanted to show people there are cars
 ***
 As this model is the honda civic type r , I based the colors red, black, grey and white . I feel that enthusiasts will appreciate the authnticity of the site as well as subliminally teaching the unknowing user the colors assosiated with hondas type r branding.
 #### Fonts
-Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have decided to go with  ...... As I feel in my opinion this is a modern and current feel and is easy to read.I also chose ....... For my header as I feel this contasts well with the main text of .....
+Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have decided to go with [MATE SC](https://fonts.google.com/?query=mate+sc) as I feel in my opinion this is a modern and current feel and is easy to read.I also chose the same for my header as I feel this contasts well with the main text as when larger its flair is even more noticabe in my opinion.
 #### Icons
- Icons for my website are from [FONT AWESOME LIBRARY](https://fontawesome.com/).The icons I have chosen are in fitting with the headings as they provide a little fun whilst giving a visual cue whilst also making the site feel modern and for a young audience
+ Icons for my website are from [FONT AWESOME LIBRARY](https://fontawesome.com/).The icons I have chosen are in fitting with the headings as they provide a little fun whilst giving a visual cue whilst also making the site feel modern and for a young audience.
 #### Colors
 I did initially base my colors on Hondas branding on the civic type r ,however this did not look visually appealing or stimulating.
 Initial colors .........
