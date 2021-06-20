@@ -82,7 +82,11 @@ Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have 
  Icons for my website are from [FONT AWESOME LIBRARY](https://fontawesome.com/).The icons I have chosen are in fitting with the headings as they provide a little fun whilst giving a visual cue whilst also making the site feel modern and for a young audience.
 #### Colors
 I did initially base my colors on Hondas branding on the civic type r ,however this did not look visually appealing or stimulating.
-Initial colors .........
+My initial colours were:
+[slategrey]()
+[red]()
+[black()
+[white]()
 ..........
 ..........
 I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.I have used 
