@@ -81,14 +81,22 @@ Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have 
 #### Icons
  Icons for my website are from [FONT AWESOME LIBRARY](https://fontawesome.com/).The icons I have chosen are in fitting with the headings as they provide a little fun whilst giving a visual cue whilst also making the site feel modern and for a young audience.
 #### Colors
-I did initially base my colors on Hondas typical branding on the ![civic type r](ep3-bye-gti.png) ,however this did not look visually appealing or stimulating.
+I did initially base my colors on the typical branding by Honda of the Civic Type R ,however i felt this was not particularly modern or visually stimulating. ![civic type r advert by honda with the text bye bye gti](ep3-bye-gti.png) .
 My initial colours were:
-[slategrey]()
-[red]()
-[black()
-[white]()
-..........
-..........
+![slategrey]()
+![red]()
+![black()
+![white]()
+
+I then decided to only use these colours on the header in the nav bar and on the footer . 
+And went for somthing much more digestable and visually relaxing and stimulating in my opinion .
+My new colours are:
+![]()
+![]()
+![]()
+![]()
+
+
 I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.I have used 
 #### Structures
 
