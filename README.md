@@ -106,9 +106,13 @@ I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE
 ***
 #### Existing Features
 ##### Navigation
+For the navbar I have given it a fixed position so that its easy for the user to navigate , along with a smooth scroll css fuction to help with the fluidity and keep the site feeling modern.
 ##### Hero Image
+I have decided to implement a large Hero image based on the Advertising campain by honda , inparticular the colors I found were visually stimulating
 ##### Welcome Section
-#####
+I have used three heading running vertically down the page with some text as not to overload the user . These being 50% in width , the other 50% is taken up with an image of a type r to offer stimulation . This then is the height of the three headings with text.
+##### Why so special? section
+
 
 ### Technologies Used
 ***
