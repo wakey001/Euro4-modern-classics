@@ -1,10 +1,10 @@
 # wakey001/euro4-modern-classics
 ***
-## Euro-4 modern classics
+## Euro-4 Modern Classics
 ![different device sizes with a honda civic type R](pic-for-readme.PNG)
 ***
 
-## Goal for this project
+## Goal For This Project
 Welcome to euro-4 modern classics , on this site my goal is to raise awrness for my personel passion cars.
 As clean air zones pop up all over the uk i wanted to show people there are cars that although old, can be still relevant ,practical,reliable and still quite quick and also fun. I will do this by giving the user an intuitive ,fun,interesting and informative experiance. My aim is to excite the user enough for them to want to buy the car after visiting my site. I will provide links for the user to search for the vehicle featured on the site . Thank you for looking . Any feedback dont hesitate to drop me a message . 
 ***
@@ -48,27 +48,27 @@ As clean air zones pop up all over the uk i wanted to show people there are cars
 * The website should be fun, exciting
 * The user should learn without realising 
 
-### User stories
+### User Stories
 * As a user I want the site to be easy to navigate
 * As a user I want the site to have useful information
 * As a user I want to be excited by the content 
-* As a USER I want the  conten to be visually stimulating
-* As a USER I want the site to be current and modern in design
+* As a user I want the  conten to be visually stimulating
+* As a user I want the site to be current and modern in design
 
-### Site owners goals
+### Site Owners Goals
 * Stand out from the competition
 * Users to use the search fuction to look for a car ,proves engagement .
 * Potentially build up the site for various models if successfull
 ***
 
-### User requirements and expextations
+### User Requirements And Expextations
 ***
 #### Requirements
 * Easy to navigate via the menu
-* RELEVANT QUALITY CONTENTRelevant quality content
-* CLEAR INFORMATION Clear information
-* VISUALLY APPEALING Visually appealing
-#### EXPECTATIONS Expectations
+* Relevant quality content
+* Clear information
+* Visually appealing
+####  Expectations
 * The user expects links to open in a new tab
 * The user expects the site to entertain them
 * The user expects the site to react smoothly with minimal lag 
