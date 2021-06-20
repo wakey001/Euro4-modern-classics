@@ -88,13 +88,15 @@ My initial colours were:
 ![black()
 ![white]()
 
-I then decided to only use these colours on the header in the nav bar and on the footer . 
+I then decided to only use these colours on the header in the nav bar and on the footer .
 And went for somthing much more digestable and visually relaxing and stimulating in my opinion .
+I used a website called coolers for inspiration , although not using one of their many palletes itself one did provide my inspiration. 
 My new colours are:
-![]()
-![]()
-![]()
-![]()
+rgb(96, 141,78)
+rgb(158,214,56)
+rgba(100,36,36,0.6)
+rgba(122,212,200,0.6)
+
 
 
 I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.I have used 
