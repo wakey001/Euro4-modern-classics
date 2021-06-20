@@ -1,124 +1,120 @@
 # wakey001/euro4-modern-classics
 ***
-## FUTURE MODERN CLASSICS
+## Euro-4 modern classics
 ![different device sizes with a honda civic type R](pic-for-readme.PNG)
 ***
 
-## GOAL FOR THIS PROJECT
-WELCOME TO FUTURE MODERN CLASSICS ON THIS SITE MY GOAL IS TO RAISE AWARNESS FOR MY PERSONAL PASSION, CARS ,MODERN CLASSICS FOR THAT MATTER .
-WITH EVERYTHING GEARING TOWARDS CLEANER CO2 AND ELECTRIC AND HYBRID CARS THE DAYS OF THE COMBUSTION ENGINE ARE NUMBERED.
-SO I FEEL WE SOULD CELBRATE THE COMBUSTION ENGINE CARS EVEN MORE AND I WILL DO THIS SO THIS BUY GIVING THE USER AN INTUITIVE, FUN INTERESTING AND INFORMATIVE EXPERIANCE .
-I WANT THE USER TO WANT TO BE EXCITED ENOUGH TO WANT TO SEARCH FOR A CAR .
-MY AIM IS TO EXCITE THE USER TO MAKE THEM WANT TO GO OUT AND BUY THE MODEL FEATURED BY CLICKING ON THE LINKS TO VARIOUS CAR BUYING WEBSITES PROVIDED .
-THANK YOU FOR LOOKING . ANY FEEDBACK DONT HESITATE TO CONTACT ME .
+## Goal for this project
+Welcome to euro-4 modern classics , on this site my goal is to raise awrness for my personel passion cars.
+As clean air zones pop up all over the uk i wanted to show people there are cars that although old, can be still relevant ,practical,reliable and still quite quick and also fun. I will do this by giving the user an intuitive ,fun,interesting and informative experiance. My aim is to excite the user enough for them to want to buy the car after visiting my site. I will provide links for the user to search for the vehicle featured on the site . Thank you for looking . Any feedback dont hesitate to drop me a message . 
 ***
 
 
 
-## TABLE OF CONTENTS
-* UX 
-    * USER GOALS
+## Table Of Contents
+* Ux
+    * User Goals
     
-    * USER STORIES
+    * User Stories
    
-    * SITE OWNER GOALS
+    * Site Owner Goals
     
-    * USER REQUIREMENTS AND EXPECTATIONS
-      * REQUIREMENTS 
-      * EXPECTATIONS
+    * User Requirements And Expectations
+      * Requirements 
+      * Expectations
         
-    * DESIGN CHOICES
-      * FONTS
-      * ICONS
-      * COLOR
-      * STRUCTURE
+    * Design Choices
+      * Fonts
+      * Icons
+      * Color
+      * Structure
      
-* FEATURES
-    * EXSISTING FEATURES
-    * FEATURES TO BE IMPLEMENTED
-* TECHNOLOGIES USED
-    * LANGUAGES
-    * TOOLS AND LIBARIES
-* TESTING
-* DEPLOYMENT
-* CREDITS
+* Features
+    * Existing Features
+    * Features To Be Implemented
+* Technology Used
+    * Languages
+    * Tools And Libraries
+* Testing
+* Deployment
+* Credits
 ***
-## UX
+## Ux
 ***
-### USER GOALS
-* A WEBSITE FILLED WITH RELEVANT CONTENT
-* A WEBSITE EASY TO USE ON ALL PLATFORMS
-* APPEALING TO ALL USER NONT JUST ENTHUSIASTS
-* THE WEBSITE SHOULD BE FUN, EXCITING
-* THE USER SHOULD LEARN WITHOUT REALISING IT 
+### User Goals
+* A website filled with relevant content
+* A website easy to use on all platforms
+* Appealing to all users ,not just car geeks
+* The website should be fun, exciting
+* The user should learn without realising 
 
-### USER STORIES
-* AS A USER I WANT THE SITE TO BE EASY TO NAVIGATE
-* AS A USER I WANT THE SITE TO HAVE USEFUL INFORMATION
-* AS A USER I WANT TO BE EXCITED BY THE CONTENT
-* AS A USER I WANT THE CONTENT TO BE VISUALLY STIMULATING
-* AS U USER I WANT THE SITE TO BE CURRENT AND MODERN IN DESIGN
+### User stories
+* As a user I want the site to be easy to navigate
+* As a user I want the site to have useful information
+* As a user I want to be excited by the content 
+* As a USER I want the  conten to be visually stimulating
+* As a USER I want the site to be current and modern in design
 
-### SITE OWNERS GOALS
-* STAND OUT FROM THE COMPETITION
-* USERS TO USE THE SEARCH FOR A CAR LINK TO PROVE THEY ARE STIMULATED BY CONTENT
-* POTENTIALLY BUILD UP UP THE SITE FOR VARIOUS MODELS IF SUCCESSFULL
+### Site owners goals
+* Stand out from the competition
+* Users to use the search fuction to look for a car ,proves engagement .
+* Potentially build up the site for various models if successfull
 ***
 
-### USER REQUIREMENTS AND EXPECTATIONS
+### User requirements and expextations
 ***
-#### REQUIREMENTS
-* EASY TO NAVIGATE VIA THE MENU
-* RELEVANT QUALITY CONTENT
-* CLEAR INFORMATION 
-* VISUALLY APPEALING 
-#### EXPECTATIONS
-* THE USER EXPECTS LINKS SHOULD OPEN IN A NEW TAB
-* THE USER EXPECTS THE SITE TO BE ENTERTAIN THEM
-* THE USER EXPECTS THE SITE TO REACT FLUIDLY WITH MINIMAL LAG
-* THE USER EXPECTS THE SITE TO BE VISUALLY APPEALING
-### DESIGN CHOICES
+#### Requirements
+* Easy to navigate via the menu
+* RELEVANT QUALITY CONTENTRelevant quality content
+* CLEAR INFORMATION Clear information
+* VISUALLY APPEALING Visually appealing
+#### EXPECTATIONS Expectations
+* The user expects links to open in a new tab
+* The user expects the site to entertain them
+* The user expects the site to react smoothly with minimal lag 
+* The user expects the site to be visually appealing
+### Design choices
 ***
-AS THIS MODEL IS THE HONDA CIVIC TYPE R I BASED THE COLORS ON THE BRANDING OF HONDA WHICH ARE RED AS I FEEL ENTHUSIASTS WILL APPRECIATE THE AUTHENTICY OF THE SITE AS WELL AS TEACHING NON-ENTHUSIASTS ABOUT THE COLORS HONDA LIKE TO ASSOSIATE WITH.
-#### FONTS
-FONTS FOR MY WEBSITE ARE FROM [GOOGLE FONTS](https://fonts.google.com/). I HAVE DECIDED TO GO WITH ...... AS I FEEL IN MY OPINION THIS IS A MODERN AND CURRENT FEEL AND IS EASY TO READ. I ALSO CHOSE ....... FOR MY HEADER AS I FEEL THIS CONTRASTS WELL WITH THE MAIN TEXT OF .....
-#### ICONS
-ICONS FOR MY WEBSITE ARE FROM THE [FONT AWESOME LIBRARY](https://fontawesome.com/) THE ICONS I HAVE CHOSEN ARE IN FITTING WITH THE HEADINGS AND IN MY OPINION DO WELL TO ADD EXTRA VISUAL CUES TO HELP MAKE THE SITE FEEL MODERN.
-#### COLORS
-I HAVE BASED MY COLORS ON THE RED BRANDING OF HONDAS TYPE R BADGE
-COLORS HERE .........
+As this model is the honda civic type r , I based the colors red, black, grey and white . I feel that enthusiasts will appreciate the authnticity of the site as well as subliminally teaching the unknowing user the colors assosiated with hondas type r branding.
+#### Fonts
+Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have decided to go with  ...... As I feel in my opinion this is a modern and current feel and is easy to read.I also chose ....... For my header as I feel this contasts well with the main text of .....
+#### Icons
+ Icons for my website are from [FONT AWESOME LIBRARY](https://fontawesome.com/).The icons I have chosen are in fitting with the headings as they provide a little fun whilst giving a visual cue whilst also making the site feel modern and for a young audience
+#### Colors
+I did initially base my colors on Hondas branding on the civic type r ,however this did not look visually appealing or stimulating.
+Initial colors .........
 ..........
 ..........
-I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.
-#### STRUCTURE
+I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.I have used 
+#### Structures
 
-### FEATURES
+### Features
 ***
-#### EXISTING FEATURES
-##### NAVIGATION
-##### HERO IMAGE
-##### WELCOME SECTION
+#### Existing Features
+##### Navigation
+##### Hero Image
+##### Welcome Section
 #####
 
-### TECNOLOGIES USED
+### Technologies Used
 ***
-#### LANGUAGES
+#### Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
-#### LIBRARIES AND FRAMEWORKS
+#### Libraries And Frameworks
 * [FONT AWESOME](https://fontawesome.com/)
 * [GOOGLE FONTS](https://fonts.google.com/)
-#### TOOLS
+#### Tools
 * [GIT HUB](https://github.com/)
 * [GIT POD](https://www.gitpod.io/docs/configure/)
 * [W3C HTML VALIDATION SERVICE](https://validator.w3.org/)
 * [W3C CSS VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/)
-### TESTING 
+### Testing 
 ***
-### DEPLOYMENT
+### Deployment
 ***
 
-### CREDITS
+### Credits
 
 
 
