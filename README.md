@@ -141,6 +141,17 @@ Having an issue with my form submit box where I cannot seem to get it to change 
 * [W3C HTML VALIDATION SERVICE](https://validator.w3.org/)
 * [W3C CSS VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/)
 ### Testing 
+####Nav Bar
+##### Plan
+My first plan an on my intial commits I wanted a nav which was top right of the page . I then felt it wasnt what i wanted so decided to implement a fixed position nav . That way i felt it was easier and more appealing for the user to navigate.
+##### Implementation
+I implemented the navbar giving it a fixed postion .. I then styled the navbar using css to space the links evenly and add a hover element.
+##### Test
+To test I clicked all the links to make sure it worksed as it should I have also tested it on various browsers and devices.
+##### Result
+The navbar works on all devices and browsers
+##### Verdict
+The test has passed and all criteria met
 ***
 ### Deployment
 ***
