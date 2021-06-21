@@ -111,7 +111,20 @@ For the navbar I have given it a fixed position so that its easy for the user to
 I have decided to implement a large Hero image based on the Advertising campain by honda , inparticular the colors I found were visually stimulating
 ##### Welcome Section
 I have used three heading running vertically down the page with some text as not to overload the user . These being 50% in width , the other 50% is taken up with an image of a type r to offer stimulation . This then is the height of the three headings with text.
-##### Why so special? section
+##### Why so special section
+On this section I have used a porthole style image with four headings with some text . The emphasis is then on the image making it a strong focal point for the text
+##### Gallery
+For the gallery I have created a 4 row column with different colours of all the models .This then drops to 3 columns on screens under 1200px and 2 columns under 800px .
+##### Form 
+For this I have given it a drop down selector for price and a thoughts section which I feel makes it visually more appealing than a long list of text or email boxes.
+#####Footer 
+In the footer are links to well know used car sites known to both enthusiasts and the general public . I have also made sure these open a new tab and that they will automatically show the model listed rather than the user have to input details . I have also given it a fixed positon so the user can access these easily at any time.
+##### Features To Be Implemented
+I can envisage the site going in many directions as either a site with guides on common issues and how to fix them ,or a links to rare or discontinued parts. Or another possibility is to feature other models which are also becoming rare classics following the same trend as the other model featured.
+##### Bugs
+Having an issue with my form submit box where I cannot seem to get it to change with the hover function.
+
+
 
 
 ### Technologies Used
