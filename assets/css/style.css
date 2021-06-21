@@ -347,18 +347,25 @@ footer{
     #circle-cover-bg-one{
         clear: both;
         float: left;
-    }
-}
-@media screen and (max-width:405px){
-    #circle-container-one {
-        width: 290px;
-        height: 270px;
-        padding: 5px;
+    }#circle-container-one {
+        width: 320px;
+        height: 300px;
+        padding: 10px;
         border: 1px solid purple;
         border-radius: 50%;
         margin: 0 auto;
         
     }
+}
+@media screen and (max-width:405px){
+    #circle-container-one {
+        width: 290px;
+        height: 290px;
+        padding: 10px;
+        border: 1px solid purple;
+        border-radius: 50%;
+        margin: 0 auto;}
+    
     
     #circle-cover-bg-one {
         background: url('../images/K20A_honda.jpg') no-repeat center center;
