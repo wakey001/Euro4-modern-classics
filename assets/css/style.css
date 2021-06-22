@@ -281,9 +281,7 @@ footer{
         width:100%;
         background-size: contain;
         background-color: slategray;
-        height:400;
         margin-bottom: 0;
-         
         float: left;
     }
     #intro-top ,#intro-middle , #intro-bottom{
@@ -322,6 +320,7 @@ footer{
 
 @media screen and (max-width:800px) {
     #logo{margin-top: 15px;
+        font-size: 2rem;
 
     }
     
@@ -361,7 +360,8 @@ footer{
         
     }
 }
-@media screen and (max-width:405px){
+@media screen and (max-width:450px){
+    #logo{top: 80px;}
     #circle-container-one {
         width: 290px;
         height: 290px;
