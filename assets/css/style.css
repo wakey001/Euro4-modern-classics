@@ -323,8 +323,8 @@ footer{
 
 
 @media screen and (max-width:800px) {
-    #logo{margin-top: 15px;
-        font-size: 2rem;
+    #logo{
+        font-size: 4rem;
 
     }
     
@@ -349,7 +349,7 @@ footer{
 }
 @media screen and (max-width:620px){
     #logo{
-        font-size: 2rem;
+        font-size: 3rem;
     }
     
     #circle-cover-bg-one{
@@ -367,7 +367,7 @@ footer{
 }
 @media screen and (max-width:450px){
     #logo{
-        top: 80px;
+        font-size: 2.5rem;
     }
     #gem{
         margin-right: 70px;
