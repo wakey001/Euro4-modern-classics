@@ -1,7 +1,7 @@
 # wakey001/euro4-modern-classics
 ***
 ## Euro-4 Modern Classics
-![different device sizes with a honda civic type R](pic-for-readme.PNG)
+![different device sizes with a honda civic type R]()
 ***
 
 ## Goal For This Project
@@ -117,7 +117,7 @@ On this section I have used a porthole style image with four headings with some 
 For the gallery I have created a 4 row column with different colours of all the models .This then drops to 3 columns on screens under 1200px and 2 columns under 800px .
 ##### Form 
 For this I have given it a drop down selector for price and a thoughts section which I feel makes it visually more appealing than a long list of text or email boxes.
-#####Footer 
+##### Footer 
 In the footer are links to well know used car sites known to both enthusiasts and the general public . I have also made sure these open a new tab and that they will automatically show the model listed rather than the user have to input details . I have also given it a fixed positon so the user can access these easily at any time.
 ##### Features To Be Implemented
 I can envisage the site going in many directions as either a site with guides on common issues and how to fix them ,or a links to rare or discontinued parts. Or another possibility is to feature other models which are also becoming rare classics following the same trend as the other model featured.
@@ -141,7 +141,7 @@ Having an issue with my form submit box where I cannot seem to get it to change 
 * [W3C HTML VALIDATION SERVICE](https://validator.w3.org/)
 * [W3C CSS VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/)
 ### Testing 
-####Nav Bar
+#### Navbar
 ##### Plan
 My first plan an on my intial commits I wanted a nav which was top right of the page . I then felt it wasnt what i wanted so decided to implement a fixed position nav . That way i felt it was easier and more appealing for the user to navigate.
 ##### Implementation
