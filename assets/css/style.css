@@ -361,7 +361,12 @@ footer{
     }
 }
 @media screen and (max-width:450px){
-    #logo{top: 80px;}
+    #logo{
+        top: 80px;
+    }
+    #left-about-one h2{
+        margin-right: 35px;
+        }
     #circle-container-one {
         width: 290px;
         height: 290px;
