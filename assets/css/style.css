@@ -347,6 +347,9 @@ footer{
     #logo{
         font-size: 2rem;
     }
+    #tools{
+        
+    }
     #circle-cover-bg-one{
         clear: both;
         float: left;
@@ -364,9 +367,10 @@ footer{
     #logo{
         top: 80px;
     }
-    #left-about-one h2{
-        margin-right: 35px;
+    #gem{
+        margin-right: 70px;
         }
+
     #circle-container-one {
         width: 290px;
         height: 290px;
