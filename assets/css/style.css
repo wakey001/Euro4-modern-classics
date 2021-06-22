@@ -78,7 +78,8 @@ nav a:hover {
     height: 800px;
     width: 100%;
     background: url('../images/civic-wallpaper.jpg') no-repeat center center;
-    background-color: silver no-repeat center center;
+    background-color: silver ;
+    background-size: cover;
 }
 
 
@@ -202,10 +203,12 @@ hr {
     column-count: 3;
     column-gap: 0;
     background-color: rgba(100, 36, 36, 0.623);
+    
 }
 
 #photos>img {
     width: 100%;
+    background-size: contain;
 }
 
 /* vote */
