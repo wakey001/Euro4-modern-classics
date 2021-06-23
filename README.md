@@ -83,7 +83,7 @@ Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have 
 #### Colors
 I did initially base my colors on the typical branding by Honda of the Civic Type R ,however i felt this was not particularly modern or visually stimulating. ![civic type r advert by honda with the text bye bye gti](ep3-bye-gti.png) .
 My initial colours were:
-![slategrey]()
+![]()
 ![red]()
 ![black()
 ![white]()
@@ -122,7 +122,15 @@ In the footer are links to well know used car sites known to both enthusiasts an
 ##### Features To Be Implemented
 I can envisage the site going in many directions as either a site with guides on common issues and how to fix them ,or a links to rare or discontinued parts. Or another possibility is to feature other models which are also becoming rare classics following the same trend as the other model featured.
 ##### Bugs
-Having an issue with my form submit box where I cannot seem to get it to change with the hover function.
+##### Form
+Had an issue with my form submit box where I cannot seem to get it to change with the hover function. This was resolved by changing the input type to button type.
+##### Mobile device usability
+On screen sizes under 450px a margin on the right was apparant . After hours of searching I consulted my mentor who narrowed it down to my hero-image not being wide enough. This was then corrected with a new hero image.
+
+
+
+
+
 
 
 
