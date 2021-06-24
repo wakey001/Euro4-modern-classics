@@ -370,11 +370,17 @@ footer{
     .left-about-heading , .right-about-heading{
         width: 100%;
         float:left;}
+
+        nav{
+            letter-spacing: 0;}
+        }
+
+    
     
 
+        
 
-}
-    
+           
 @media screen and (max-width:450px){
     #logo{
         font-size: 2.5rem;
