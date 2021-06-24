@@ -1,7 +1,7 @@
 # wakey001/euro4-modern-classics
 ***
 ## Euro-4 Modern Classics
-![different device sizes with a honda civic type R]()
+![different device sizes with a honda civic type R](readme-images/ep3-bye-gti.png)
 ***
 
 ## Goal For This Project
@@ -121,11 +121,35 @@ For this I have given it a drop down selector for price and a thoughts section w
 In the footer are links to well know used car sites known to both enthusiasts and the general public . I have also made sure these open a new tab and that they will automatically show the model listed rather than the user have to input details . I have also given it a fixed positon so the user can access these easily at any time.
 ##### Features To Be Implemented
 I can envisage the site going in many directions as either a site with guides on common issues and how to fix them ,or a links to rare or discontinued parts. Or another possibility is to feature other models which are also becoming rare classics following the same trend as the other model featured.
-##### Bugs
-##### Form
-Had an issue with my form submit box where I cannot seem to get it to change with the hover function. This was resolved by changing the input type to button type.
-##### Mobile device usability
-On screen sizes under 450px a margin on the right was apparant . After hours of searching I consulted my mentor who narrowed it down to my hero-image not being wide enough. This was then corrected with a new hero image.
+#### Bugs
+##### Contact Us Form 
+* ##### Bug 
+Had an issue with my form submit box where I cannot seem to get it to change with the hover function. 
+
+* ##### Fix 
+This was resolved by changing the input type to button type.
+
+* ##### Verdict 
+The summit button now changes when hovered over.
+
+#### Mobile device
+
+* #### Bug 
+On screen sizes under 450px a margin on the right was apparant .
+
+* #### Fix 
+After pouring through my code via [Googles developent tool]() I consulted my local community members whom pointed me towards overflow on an elemnt .
+I still could not find the issue so asked my mentor who narrowed it down to my hero-image not being wide enough. This was then corrected with a new hero image.
+* ##### Verdict 
+On screen sizes under 450px the Problem is solved.
+#### Icons
+* ##### Bug 
+Some Icons on the WhyA Classic section were not displaying on the same line as the header on smaller device screens
+* ##### Fix
+ Reduced the Icon size as well as adding padding helped solve the issue
+* ##### Verdict
+Icons now stay on the same line no matter the screen size
+
 
 
 
