@@ -1,7 +1,7 @@
 # wakey001/euro4-modern-classics
 ***
 ## Euro-4 Modern Classics
-![different device sizes with a honda civic type R](readme-images/ep3-bye-gti.png)
+![different device sizes with a honda civic type R](readme-images/pic-for-readme.png)
 ***
 
 ## Goal For This Project
@@ -73,15 +73,16 @@ As clean air zones pop up all over the uk i wanted to show people there are cars
 * The user expects the site to entertain them
 * The user expects the site to react smoothly with minimal lag 
 * The user expects the site to be visually appealing
-### Design choices
 ***
+### Design choices
+
 As this model is the honda civic type r , I based the colors red, black, grey and white . I feel that enthusiasts will appreciate the authnticity of the site as well as subliminally teaching the unknowing user the colors assosiated with hondas type r branding.
 #### Fonts
 Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have decided to go with [MATE SC](https://fonts.google.com/?query=mate+sc) as I feel in my opinion this is a modern and current feel and is easy to read.I also chose the same for my header as I feel this contasts well with the main text as when larger its flair is even more noticabe in my opinion.
 #### Icons
  Icons for my website are from [FONT AWESOME LIBRARY](https://fontawesome.com/).The icons I have chosen are in fitting with the headings as they provide a little fun whilst giving a visual cue whilst also making the site feel modern and for a young audience.
 #### Colors
-I did initially base my colors on the typical branding by Honda of the Civic Type R ,however i felt this was not particularly modern or visually stimulating. ![civic type r advert by honda with the text bye bye gti](ep3-bye-gti.png) .
+I did initially base my colors on the typical branding by Honda of the Civic Type R ,however i felt this was not particularly modern or visually stimulating. ![civic type r advert by honda with the text bye bye gti](readme-images/ep3-bye-gti.png) .
 My initial colours were:
 ![]()
 ![red]()
@@ -100,10 +101,11 @@ rgba(122,212,200,0.6)
 
 
 I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.I have used 
-#### Structures
+
+***
 
 ### Features
-***
+
 #### Existing Features
 ##### Navigation
 For the navbar I have given it a fixed position so that its easy for the user to navigate , along with a smooth scroll css fuction to help with the fluidity and keep the site feeling modern.
@@ -145,22 +147,15 @@ On screen sizes under 450px the Problem is solved.
 #### Icons
 * ##### Bug 
 Some Icons on the WhyA Classic section were not displaying on the same line as the header on smaller device screens
-* ##### Fix
- Reduced the Icon size as well as adding padding helped solve the issue
+*  ##### Fix
+Two right floating headings were changed to float left . And the width of those headings were previously 60% . This was changed to 100%.  
+ 
 * ##### Verdict
-Icons now stay on the same line no matter the screen size
+Icons now stay on the same line no matter the screen 
 
-
-
-
-
-
-
-
-
-
-### Technologies Used
 ***
+### Technologies Used
+
 #### Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
@@ -172,7 +167,10 @@ Icons now stay on the same line no matter the screen size
 * [GIT POD](https://www.gitpod.io/docs/configure/)
 * [W3C HTML VALIDATION SERVICE](https://validator.w3.org/)
 * [W3C CSS VALIDATION SERVICE](https://jigsaw.w3.org/css-validator/)
+***
+
 ### Testing 
+
 #### Navbar
 ##### Plan
 My first plan an on my intial commits I wanted a nav which was top right of the page . I then felt it wasnt what i wanted so decided to implement a fixed position nav . That way i felt it was easier and more appealing for the user to navigate.
@@ -186,6 +184,23 @@ The navbar works on all devices and browsers
 The test has passed and all criteria met
 ***
 ### Deployment
+This project was deployed using github using the following method:
+
+1.After logging into github.com open repository
+2.Click on settings then on the left find the pages section 
+3.Once in pages click on master branch and then save 
+4.Now a link should appear and in a few moments be able to be clicked http://wakey001.github.io/euro4-modern-classics/
+5.This is now a live website than can be viewed from any device
+
+To run it locally on gitpod follow this method:
+
+1.Assuming you have gitpod as an add on . Click on which repository you want to run .
+2.Click on gitpod this should then take a few moments 
+3.Once loaded find the terminal section and type python3 -m http.server
+4.This will open a port 8000 ,click yes to open
+5.A new tab should appear with your work ,although sometimes needs to be refreshed 
+
+
 ***
 
 ### Credits

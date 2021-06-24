@@ -366,13 +366,20 @@ footer{
         
     }
 }
+@media screen and (max-width:550px){
+    .left-about-heading , .right-about-heading{
+        width: 100%;
+        float:left;}
+    
+
+
+}
+    
 @media screen and (max-width:450px){
     #logo{
         font-size: 2.5rem;
     }
-    #gem{
-        margin-right: 70px;
-        }
+    
 
     #circle-container-one {
         width: 290px;
@@ -380,7 +387,8 @@ footer{
         padding: 10px;
         border: 1px solid purple;
         border-radius: 50%;
-        margin: 0 auto;}
+        margin: 0 auto;
+    }
     
     
     #circle-cover-bg-one {
