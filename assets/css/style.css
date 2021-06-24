@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    
 }
 
 html{
@@ -31,7 +32,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #fff;
+    color: darkblue;
     font-size: 6rem;
     background: #21212173;
     padding:2.5rem;
@@ -391,3 +392,5 @@ footer{
 
 }
 }
+
+
