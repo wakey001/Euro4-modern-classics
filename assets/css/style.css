@@ -228,11 +228,14 @@ hr {
 
 }
 #submit{
-    border-radius: 6px;
-    color: saddlebrown;
+    height: 30px;
+    width: 100px;
+    border-radius: 2px;
+    color: #000;
 }
-#submit a:hover{
-    background-color: red;
+#submit:hover{
+    color: red;
+    background-color: #000;
 }
 #form-box{
     margin:40px;
