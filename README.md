@@ -1,7 +1,7 @@
 # wakey001/euro4-modern-classics
 ***
 ## Euro-4 Modern Classics
-![different device sizes with a honda civic type R](readme-images/pic-for-readme.png)
+![different device sizes with a honda civic type R]()
 ***
 
 ## Goal For This Project
