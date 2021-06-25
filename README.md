@@ -93,10 +93,11 @@ I then decided to only use these colours on the header in the nav bar and on the
 And went for somthing much more digestable and visually relaxing and stimulating in my opinion .
 I used a website called coolers for inspiration , although not using one of their many palletes itself one did provide my inspiration. 
 My new colours are:
-rgb(96, 141,78)
-rgb(158,214,56)
-rgba(100,36,36,0.6)
-rgba(122,212,200,0.6)
+- ![#608D4E](https://via.placeholder.com/125/608d4e/000000?text=+) `#608D4E`
+- ![#21212173](https://via.placeholder.com/125/21212173/000000?text=+)`#21212173`
+-![#9ED69C](https://via.placeholder.com/125/9ED69C/000000?text=+)`#9ED69C`
+-![#642424](https://via.placeholder.com/125/642424/000000?text=+)`#642424`
+
 
 
 
