@@ -85,24 +85,32 @@ Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have 
 I did initially base my colors on the typical branding by Honda of the Civic Type R ,however i felt this was not particularly modern or visually stimulating. ![civic type r advert by honda with the text bye bye gti](readme-images/ep3-bye-gti.png) .
 My initial colours were:
 
--![#000](https://via.placeholder.com/125/000/000000?text=+)`#000`
--![#ff0000](https://via.placeholder.com/125/ff0000/000000?text=+)`#ff0000`
--![#](https://via.placeholder.com/125//000000?text=+)
--![#ffffff](https://via.placeholder.com/125/ffffff/000000?text=+)`#ffffff`
+![#000](https://via.placeholder.com/125/000/000000?text=+)`#000`
+
+![#ff0000](https://via.placeholder.com/125/ff0000/000000?text=+)`#ff0000`
+
+![#808080](https://via.placeholder.com/125/808080/000000?text=+)`#808080`
+
+![#ffffff](https://via.placeholder.com/125/ffffff/000000?text=+)`#ffffff`
 
 I then decided to only use these colours on the header in the nav bar and on the footer .
 And went for somthing much more digestable and visually relaxing and stimulating in my opinion .
 I used a website called coolers for inspiration , although not using one of their many palletes itself one did provide my inspiration. 
-My new colours are:
-- ![#608D4E](https://via.placeholder.com/125/608d4e/000000?text=+) `#608D4E`
-- ![#21212173](https://via.placeholder.com/125/21212173/000000?text=+)`#21212173`
--![#9ED69C](https://via.placeholder.com/125/9ED69C/000000?text=+)`#9ED69C`
--![#642424](https://via.placeholder.com/125/642424/000000?text=+)`#642424`
+My new background colours are:
+
+![#608D4E](https://via.placeholder.com/125/608d4e/000000?text=+) `#608D4E`
+
+![#21212173](https://via.placeholder.com/125/21212173/000000?text=+)`#21212173`
+
+![#9ED69C](https://via.placeholder.com/125/9ED69C/000000?text=+)`#9ED69C`
+
+![#642424](https://via.placeholder.com/125/642424/000000?text=+)`#642424`
+
+![#7AD4C8](https://via.placeholder.com/125/7AD4C8/000000?text=+)`#7AD4C8`
 
 
 
-
-I HAVE USED CONTRAST CHECKER ON COOLERS TO MAKE SURE THE TEXT IS EASILY READABLE IN ALL COLORS.I have used 
+.I have used contrast checker in the website [coolers](https://coolors.co/contrast-checker) to make sure my text is easily readable against all my background colours
 
 ***
 
@@ -206,8 +214,8 @@ To run it locally on gitpod follow this method:
 ***
 
 ### Credits
-
-
-
-
-
+#### Content-Media-Inspiration
+I have used the layout of a few automobile review websites for inspiration, the main ones being.
+* [Autotrader](https://www.autotrader.co.uk/)
+* [Pistonheads](https://www.pistonheads.com/)
+* [Autocar](https://www.autocar.co.uk/)
