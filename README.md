@@ -99,14 +99,31 @@ I used a website called coolers for inspiration , although not using one of thei
 My new background colours are:
 
 ![#608D4E](https://via.placeholder.com/125/608d4e/000000?text=+) `#608D4E`
+I chose this colour as aposed to the others as it has an earthy feel .
 
-![#21212173](https://via.placeholder.com/125/21212173/000000?text=+)`#21212173`
+![#21212173](https://via.placeholder.com/125/21212173/000000?text=+)`#21212173` This color is the background color of the logo which I feel goes well with the hero image  
 
-![#9ED69C](https://via.placeholder.com/125/9ED69C/000000?text=+)`#9ED69C`
+![#9ED69C](https://via.placeholder.com/125/9ED69C/000000?text=+)`#9ED69C`This is for the section why so special , I wanted a contrast to the other section . 
 
-![#642424](https://via.placeholder.com/125/642424/000000?text=+)`#642424`
+![#642424](https://via.placeholder.com/125/642424/000000?text=+)`#642424`I chose this as I feel it closes the gaps well around the gallery.
 
-![#7AD4C8](https://via.placeholder.com/125/7AD4C8/000000?text=+)`#7AD4C8`
+![#7AD4C8](https://via.placeholder.com/125/7AD4C8/000000?text=+)`#7AD4C8`Again I chose this as I wanted a different contrast as before and felt this colour is perfect for the form element.
+
+![#ff0000](https://via.placeholder.com/125/ff0000/000000?text=+)#ff0000
+![#000000](https://via.placeholder.com/125/000000/000000?text=+)#000000
+
+I chose both these for the nav bar as it reflects the typical honda type r badge as mentioned earlier.
+
+#00000 is also my text colour as this offered the best for contrast visability
+
+![#8a2be2](https://via.placeholder.com/125/8a2be2/000000?text=+)`#8a2be2`
+![#DFFF00](https://via.placeholder.com/125/dfff00/000000?text=+)`#dfff00`
+
+I chose these to be the total opposite of the red and black when hovered over and offer a wide ranging pallete of colour.
+
+
+
+
 
 
 
