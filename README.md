@@ -121,13 +121,7 @@ I chose both these for the nav bar as it reflects the typical honda type r badge
 
 I chose these to be the total opposite of the red and black when hovered over and offer a wide ranging pallete of colour.
 
-
-
-
-
-
-
-.I have used contrast checker in the website [coolers](https://coolors.co/contrast-checker) to make sure my text is easily readable against all my background colours
+I have used contrast checker in the website [coolers](https://coolors.co/contrast-checker) to make sure my text is easily readable against all my background colours
 
 ***
 
