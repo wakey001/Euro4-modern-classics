@@ -84,10 +84,11 @@ Fonts for my website are from [GOOGLE FONTS](https://fonts.google.com/). I have 
 #### Colors
 I did initially base my colors on the typical branding by Honda of the Civic Type R ,however i felt this was not particularly modern or visually stimulating. ![civic type r advert by honda with the text bye bye gti](readme-images/ep3-bye-gti.png) .
 My initial colours were:
-![]()
-![red]()
-![black()
-![white]()
+
+-![#000](https://via.placeholder.com/125/000/000000?text=+)`#000`
+-![#ff0000](https://via.placeholder.com/125/ff0000/000000?text=+)`#ff0000`
+-![#](https://via.placeholder.com/125//000000?text=+)
+-![#ffffff](https://via.placeholder.com/125/ffffff/000000?text=+)`#ffffff`
 
 I then decided to only use these colours on the header in the nav bar and on the footer .
 And went for somthing much more digestable and visually relaxing and stimulating in my opinion .
