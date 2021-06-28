@@ -219,3 +219,13 @@ I have used the layout of a few automobile review websites for inspiration, the 
 * [Autotrader](https://www.autotrader.co.uk/)
 * [Pistonheads](https://www.pistonheads.com/)
 * [Autocar](https://www.autocar.co.uk/)
+#### Images 
+Most of my images are from [Google](https://www.google.com/) where I searched for a particular view of the model featured .
+#### Acknowledgements
+I would like to thank my mentor Simen [Eventyret_mentor](https://github.com/Eventyret) who helped me significantly but especially with the margin issue bug I had but could not figure out.
+
+Also thanks should go to slack who also helped with other issues quite quickly .
+
+Another website that has helped is [w3schools](https://www.w3schools.com/html/) I found this easy and the quickest to find most simple code 
+
+
